@@ -1,0 +1,4 @@
+# Requirements for the python crossword game
+# Add libraries here as needed, e.g:
+requests
+pytest
